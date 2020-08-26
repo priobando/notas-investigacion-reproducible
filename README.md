@@ -1,3 +1,4 @@
-# notas-investigacion-reproducible
+# Notas sobre investigación reproducible y análisis de datos
+## Reproductilidad
 
-######Notas sobre investigación reproducible y análisis de datos
+
